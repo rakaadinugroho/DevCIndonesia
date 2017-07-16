@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DevCIndonesia</string>
+    <string name="facebook_app_id">1238377296289982</string>
+    <string name="account_kit_client_token">224d5d88ffb460532d95effe3a5f55eb</string>
+    <string name="login_sms">Login with Phone</string>
+    <string name="logout">Logout</string>
+    <string name="hello">Halo Bro!</string>
+    <string name="email">email@mail.com</string>
+    <string name="auth_mail">Login with Email</string>
+</resources>
